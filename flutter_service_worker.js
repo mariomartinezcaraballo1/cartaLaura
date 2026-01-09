@@ -3,9 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "16eec60e9a90e2d0e4d1700f911898cc",
-"assets/AssetManifest.bin.json": "c72fa7fdadf7a2f924428e1bfe17709a",
+const RESOURCES = {"assets/AssetManifest.bin": "03ced9098e56809a8499a247bb248cf4",
+"assets/AssetManifest.bin.json": "d8f601dd46ca3b82d28519c2f4cf09d6",
 "assets/assets/fonts/GreatVibes-Regular.ttf": "bf94596ed0a6d89ce1871caa03a2ba68",
+"assets/assets/fotos/foto2.jpeg": "b575d997c79d68690373db3b060002c0",
+"assets/assets/fotos/foto3.jpeg": "52a7a6caa9d2aaf38d22947cc744051f",
+"assets/assets/fotos/foto4.jpeg": "f5f25a8255c1967190245ea0ef621d58",
+"assets/assets/fotos/foto5.png": "33312be1b9d65abf31cf3a24381b0726",
+"assets/assets/fotos/fotoFinal.jpeg": "3e62e0d80e6e3742623d2e2a557bb85c",
 "assets/assets/fotos/pergaminoCartaLaura.jpg": "692a314f161c1f38120b6146d3bd1f9b",
 "assets/assets/fotos/portadaCartaLaura.jpg": "4e68beadfd98b774f2adc8778bf1c5ac",
 "assets/FontManifest.json": "f00172cfbb5cd0b6a78dac55edae6518",
@@ -28,14 +33,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "16eec60e9a90e2d0e4d1700f911898cc
 "canvaskit/skwasm_heavy.wasm": "b0be7910760d205ea4e011458df6ee01",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
-"flutter_bootstrap.js": "d7c3847bccb654c6b8fc5578cf848fb2",
+"flutter_bootstrap.js": "1688e6ebbc3cc824a0276c7e68a52016",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "f11f61297e72260f5e3da2f5c8b2bdd7",
 "/": "f11f61297e72260f5e3da2f5c8b2bdd7",
-"main.dart.js": "7d0b2c970677b7a926a44fa005d8ed38",
+"main.dart.js": "354aa2f295f9994b8ab51e6406b715f0",
 "manifest.json": "34f201e82d151bc9803bfab621aa7622",
 "version.json": "91a92e328656f9410a93df6adeaaeb2c"};
 // The application shell files that are downloaded before a service worker can
