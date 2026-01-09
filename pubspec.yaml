@@ -56,6 +56,12 @@ flutter:
   assets:
     - assets/fotos/pergaminoCartaLaura.jpg
     - assets/fotos/portadaCartaLaura.jpg
+    - assets/fotos/foto2.jpeg
+    - assets/fotos/foto3.jpeg
+    - assets/fotos/foto4.jpeg
+    - assets/fotos/foto5.png
+    - assets/fotos/fotoFinal.jpeg
+
   fonts:
     - family: GreatVibes
       fonts:
